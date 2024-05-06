@@ -127,7 +127,7 @@ Ticket cuenta con la información que se le brinda a los usuarios cuando quieren
                   <version>3.1.8</version>
                   <relativePath/> <!-- lookup parent from repository -->
             </parent>
-                  <groupId>com.co.sofka</groupId>
+                  <groupId>com.co.linadev</groupId>
                   <artifactId>Salitre_Magico</artifactId>
                   <version>0.0.1-SNAPSHOT</version>
                   <name>Salitre_Magico</name>
