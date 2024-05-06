@@ -78,7 +78,7 @@ Ticket cuenta con la información que se le brinda a los usuarios cuando quieren
 
 * **attraction**
 * 
-  ![img-1](./img/attraction.png)
+  ![img-1](./img/Attraction.png)
 
 **Tipo de datos:**
 
